@@ -7,7 +7,7 @@
 
 - Последняя версия браузера Google Chrome
 - Зарегистрированный аккаунт Grafana Invitro с доступом к плагину OnCall (редактирование)
-- Бесприпятственная работа confluence.invitro.ru и grafana.invitro.ru на ПК
+- Беспрепятственная работа confluence.invitro.ru и grafana.invitro.ru на ПК
 
 # Инструкция по установке
 1. Скачать [последнюю версию](https://github.com/delka-inv/OnCall-clientApp/releases/latest) ПО 
